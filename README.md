@@ -1,4 +1,4 @@
 # college-demo
 This is my first git repository
 <br>
-Author:-Parth Chavan
+Author:-Parth Chavan (12)
